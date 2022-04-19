@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T10:03:59.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" version="17.4.5" etag="P3LrEuGUDZBNpvCxHaWb" type="github"><diagram id="fMSgjtvQ_oH2pDQNZD65">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-19T11:26:35.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="p_VJhuPlehCMgLqIcvhS" version="17.4.5" type="github">
+  <diagram id="fMSgjtvQ_oH2pDQNZD65" name="Page-1">
+    <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-1" value="&lt;font size=&quot;3&quot;&gt;9&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="415" width="50" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-2" value="&lt;font size=&quot;3&quot;&gt;8&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="445" width="50" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-3" value="&lt;font size=&quot;3&quot;&gt;7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="485" width="50" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-4" value="&lt;font size=&quot;3&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="525" width="50" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="689.5" y="725" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="685" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-7" value="&lt;font size=&quot;3&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="645" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="595" width="50" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-9" value="&lt;font size=&quot;3&quot;&gt;5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="565" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-10" value="&lt;font size=&quot;3&quot; color=&quot;#1443ff&quot;&gt;10&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="395" width="50" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#1443FF;width=16;endSize=2.73;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="624.5" y="290" as="sourcePoint" />
+            <mxPoint x="624.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-14" value="mid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#1443FF;" vertex="1" connectable="0" parent="j2cadgvtSe2Io3u9EOyY-11">
+          <mxGeometry x="-0.2857" y="-4" relative="1" as="geometry">
+            <mxPoint x="15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-13" value="target = 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#1443FF;" vertex="1" parent="1">
+          <mxGeometry x="905" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-15" value="首先判断当前中间位置处于左半段还是右半段&lt;br&gt;判断条件为 nums[mid]&amp;gt;nums[left]，&lt;br&gt;因为有序数组经k位置旋转后，k位置之前的元素都会被移到后面，&lt;br&gt;如图中所示一样，此时进行二分搜索时，&lt;br&gt;若位于左半段，&lt;br&gt;此时需要判断&lt;font color=&quot;#ff3333&quot;&gt;target&lt;/font&gt;值与&lt;font color=&quot;#ff3333&quot;&gt;nums[mid]&lt;/font&gt;的值和&lt;font color=&quot;#ff3333&quot;&gt;target&lt;/font&gt;与&lt;font color=&quot;#ff3333&quot;&gt;nums[left]&lt;/font&gt;的值&lt;br&gt;若&lt;font color=&quot;#ff3333&quot;&gt;target&lt;/font&gt;小于&lt;font color=&quot;#ff3333&quot;&gt;nums[mid]&lt;/font&gt;&lt;font color=&quot;#0f0fff&quot;&gt;，此时有两种情况，target在左半段和右半段都有可能&lt;br&gt;&lt;/font&gt;因此，需要条件&lt;font color=&quot;#000000&quot;&gt;nums[mid]&amp;gt;target&amp;amp;&amp;amp;target&amp;gt;=nums[left]&lt;/font&gt;，才能确保去左段搜索&lt;br&gt;此时需要&lt;font color=&quot;#ff3333&quot;&gt;right = mid-1&lt;/font&gt;，若是不满足上述条件任一种，就需要去右段搜索，&lt;br&gt;右段的话同理，若&lt;font color=&quot;#000000&quot;&gt;target&amp;gt;=nums[mid]&amp;amp;&amp;amp;target&amp;lt;=nums[right]&lt;/font&gt;，&lt;br&gt;此时需要&lt;font color=&quot;#ff3333&quot;&gt;left = mid+1&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#1443FF;" vertex="1" parent="1">
+          <mxGeometry x="19.5" y="-120" width="630" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#1443FF;width=16;endSize=2.73;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894.5" y="560" as="sourcePoint" />
+            <mxPoint x="894.5" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-17" value="&lt;font color=&quot;#ff3333&quot;&gt;mid&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#1443FF;" vertex="1" connectable="0" parent="j2cadgvtSe2Io3u9EOyY-16">
+          <mxGeometry x="-0.2857" y="-4" relative="1" as="geometry">
+            <mxPoint x="5" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2cadgvtSe2Io3u9EOyY-18" value="&lt;font color=&quot;#1a1a1a&quot;&gt;至于为何需要两个限制条件同时满足，&lt;br&gt;拿左段举例，只有将目标target的值限定在这块位置，才可以减小右边界，向左搜寻&lt;br&gt;nums[mid]&amp;gt;target容易理解，普通二分查找也是这样的&lt;br&gt;而target&amp;gt;=nums[left]这个条件就是因为在右段的子数组严格小于nums[left]，&lt;br&gt;这两个条件，如果target&amp;lt;nums[left],需要去右段搜索，&lt;br&gt;中间位置数据小于target，同样需要需要去右段搜索。&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="19.5" y="150" width="670" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
