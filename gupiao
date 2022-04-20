@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T12:53:27.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" version="17.4.5" etag="kN-1kv-jpGvqcF7NlNEh" type="github"><diagram id="zM_aOF24-kvGvq1nkNWH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-20T14:25:38.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="sMfgD0JM9mjnoKbp9ZLH" version="17.4.5" type="github">
+  <diagram id="zM_aOF24-kvGvq1nkNWH" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="60" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;6&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="60" width="60" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="160" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-9" value="股票的历史价格：一共6天&lt;br&gt;&lt;div&gt;&lt;span&gt;每次都将当天股票的价格与历史最低价格进行比较，确保历史价格最低&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;同样每遍历一天，都要将当前股价与历史最低价作差，记录这天卖出后的收益&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;举个栗子&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;在第一天，由于之前没有历史最低价，因此历史最低价为7，当天再卖出（先不考虑题中当天不可卖出的条件），收益为0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;在第二天，比较后发现，历史最低价可以是1，当天卖出，收益为0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;在第三天，当前股价为5，没有历史最低价低，因此历史最低价不变，当前卖出，收益为4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;在第四天，当前股价为3，没有历史最低价低，因此历史最低价不变，当天卖出，收益为2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;在第五天，当前股价为6，没有历史最低价低，因此历史最低价不变，当天卖出，收益为5&lt;/div&gt;&lt;div&gt;在第六天，当前股价为4，没有历史最低价低，因此历史最低价不变，当天卖出，收益为3&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="85" y="370" width="970" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-10" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="225" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-11" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="335" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-12" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="445" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-13" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="555" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-14" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-15" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="750" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-17" value="仔细看下每天的流程，在第i天，我们卖出股票所获得的的收益，取决于前i-1天（包含）的历史最低价，&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; 而第i-1天的收益，又取决于i-1天之前的历史最低价&lt;br&gt;那对于当前第i天，它的历史最低价怎么得到呢？&lt;br&gt;定义dp数组，它表示第i天卖出股票的收益&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;princes[i-1] - dp[i-1] 就是历史前i-1天的历史最低价，因此我们可以决定卖与不卖，&lt;br&gt;卖就是 dp[i] = princes[i] - (princes[i-1] - dp[i-1]) , 不卖则收益为0" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="830" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-18" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-19" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-20" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="270" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-21" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-22" value="5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="410" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-23" value="6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="480" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-24" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-25" value="-6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-26" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-27" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-28" value="5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="410" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-29" value="6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="480" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-31" value="天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="55" y="815" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-32" value="dp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="875" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EnHHJYRS7knAsl_0gz4_-33" value="7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="870" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
